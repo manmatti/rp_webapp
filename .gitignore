@@ -1,0 +1,4 @@
+docker-knowledge/volumes/initdb
+docker-knowledge/volumes/postgres
+docker-knowledge/volumes/knowledge/*
+docker-knowledge/!volumes/knowledge/custom_connection.xml
